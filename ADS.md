@@ -21,6 +21,18 @@ A weekly study planner that actually gets used Built for students, with no accou
 2/ A weekly study planner that actually gets used Built for students, with no account or subscription required.
 3/ $7, no signup: https://LinuxGuru999.github.io/shotgun-study-planner-template/
 
+## Directory listing (Product Hunt / Uneed / Peerlist / SaaSHub)
+Name: Study Planner Template
+Tagline: A weekly study planner that actually gets used
+Description: A weekly study planner that actually gets used Built for students, with no account or subscription required.
+One-line pitch: A weekly study planner that actually gets used No signup, $7, instant download.
+Link: https://LinuxGuru999.github.io/shotgun-study-planner-template/
+
+## Email / DM (warm list)
+Subject: A small tool for students
+Body: Hey — I made Study Planner Template because a weekly study planner that actually gets used. No signup, $7, instant download. If it's useful: https://LinuxGuru999.github.io/shotgun-study-planner-template/. If not, tell me what you actually need.
+
 ## Notes
 - Post manually from your own account; do not mass-post.
 - Space posts 2-3 days apart and tailor the tone.
+- Add ?src=<portal> to the storefront URL to attribute traffic.
