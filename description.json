@@ -1,0 +1,23 @@
+{
+  "overview": "The Study Planner Template is a digital weekly layout designed for students who buy productivity tools but abandon them by Wednesday. It strips away complicated dashboards and aesthetic fluff to focus strictly on what you need to get through the week without burning out.",
+  "usecases": [
+    "Surviving finals week when you have overlapping assignments and zero idea where to start.",
+    "Catching up after falling behind on readings because your schedule felt totally overwhelming.",
+    "Balancing a heavy course load with a part-time job or extracurriculars."
+  ],
+  "howto": [
+    "Download the PDF or import the digital notebook file into your preferred app like GoodNotes, Notability, or print it out.",
+    "Spend 10 minutes on Sunday filling in your fixed commitments and dropping every upcoming deadline into the priority triage section.",
+    "Check your page once every morning to cross off completed tasks and adjust your focus for the day."
+  ],
+  "faq": [
+    {
+      "q": "Is this just another pretty planner I'm going to stop using in two weeks?",
+      "a": "Honestly, maybe—no template can force you to open it, but this one is intentionally friction-free so it takes under five minutes a day to maintain."
+    },
+    {
+      "q": "What app or software do I need to make this work?",
+      "a": "You can print it out and use a pen, or use any PDF annotation app on a tablet or computer."
+    }
+  ]
+}
